@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppbarLayoutOrnek</string>
+    <string name="dummy_long_text">App bar layout (Ana parent olarak Coordinator Layout kullanıldığında) toolbarın ve içindeki view öğelerinin sibling view dediğimiz (Recyclerview, Nested Scroll View) yapıların scroll hareketine yani yukarı aşağı doğru olan hareketlerine tepki vermesini sağlayan yapıdır.</string>
+</resources>
